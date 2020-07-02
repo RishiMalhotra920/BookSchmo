@@ -24,7 +24,8 @@ This website has the following functionality -
  
  1. Set up a server with sql service enabled. I used Apache with sql service enabled.
  2. Create a database called 'bookschmo' and run the sql provide to set up a sample database
- 2. Go to localhost/BookSchmo to run the website
+ 3. Go to localhost/BookSchmo to run the website
+ 4. You will also need to install Bootstrap 4 to see the website.
  
  
  ## Some additional notes
