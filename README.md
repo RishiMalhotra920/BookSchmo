@@ -20,14 +20,14 @@ This website has the following functionality -
  3. improving the user interface.
  4. an email subscription service.
  
- # To get started -
+ ## To get started -
  
  1. Set up a server with sql service enabled. I used Apache with sql service enabled.
  2. Create a database called 'bookschmo' and run the sql provide to set up a sample database
  2. Go to localhost/BookSchmo to run the website
  
  
- # Some additional notes
+ ## Some additional notes
  
  I created some user and sample account emails provided below. 
  The passwords for all emails are 'strong'. 
