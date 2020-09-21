@@ -5,6 +5,10 @@ Here's the [full report](https://github.com/RishiMalhotra920/BookSchmo/blob/mast
 
 ![d](https://github.com/RishiMalhotra920/BookSchmo/blob/master/coverpage.png?raw=true)
 
+![](https://github.com/RishiMalhotra920/BookSchmo/blob/master/bookpage3.png?raw=true)
+ 
+![](https://github.com/RishiMalhotra920/BookSchmo/blob/master/bookpage3.png?raw=true)
+
 
 This website has the following functionality - 
 1. It allows users to 
@@ -12,13 +16,13 @@ This website has the following functionality -
   b. Add books to a cart and checkout.
   c. View their order history
   d. View books that are 'trending'
- ![](https://github.com/RishiMalhotra920/BookSchmo/blob/master/bookpage3.png?raw=true)
+
  
  2. It allows sellers to
   a. List books on the website
   b. Monitor their sales
  
- ![](https://github.com/RishiMalhotra920/BookSchmo/blob/master/bookpage3.png?raw=true)
+
  
  The website is functional as a whole. Eg: The books a seller lists will be accessible to the users.
  
