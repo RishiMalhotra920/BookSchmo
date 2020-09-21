@@ -3,8 +3,8 @@ A book e-commerce website that features user's and sellers accounts.
 
 Here's the [full report](https://github.com/RishiMalhotra920/BookSchmo/blob/master/Book%20Schmo%20Project%20Report.pdf)
 
-[](https://github.com/RishiMalhotra920/BookSchmo/blob/master/bookpage.png?raw=true)
-[](https://github.com/RishiMalhotra920/BookSchmo/blob/master/bookpage3.png?raw=true)
+[d](https://github.com/RishiMalhotra920/BookSchmo/blob/master/bookpage.png?raw=true)
+[d](https://github.com/RishiMalhotra920/BookSchmo/blob/master/bookpage3.png?raw=true)
 
 This website has the following functionality - 
 1. It allows users to 
